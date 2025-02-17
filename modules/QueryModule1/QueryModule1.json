@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67b2d6cd5a237b44d405f75c_f213d979-0dc9-48f1-8634-a283e9f6fd8c",
+  "moduleUUID": "c0330efa-6155-4ddd-b630-af490d8a3730",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "female",
+            "id": "rvnoidzpwd",
+            "label": "gender",
+            "propertyName": "inputs.gender"
+          }
+        ],
+        "id": "xnvtnxxjjl",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule1"
+  }
+}
