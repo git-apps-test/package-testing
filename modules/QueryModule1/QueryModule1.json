@@ -12,6 +12,13 @@
             "id": "rvnoidzpwd",
             "label": "gender",
             "propertyName": "inputs.gender"
+          },
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "",
+            "id": "ffxcdbraik",
+            "label": "dob",
+            "propertyName": "inputs.dob"
           }
         ],
         "id": "xnvtnxxjjl",
