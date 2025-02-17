@@ -1,0 +1,15 @@
+{
+  "gitSyncId": "67b2d6cd5a237b44d405f75c_206da458-4639-46fe-9f7e-000d1c72ed21",
+  "moduleUUID": "d6293d24-423e-46ac-8605-4e2273b390cb",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [],
+        "id": "txmoxmccsb",
+        "sectionName": ""
+      }
+    ],
+    "name": "QueryModule2"
+  }
+}
